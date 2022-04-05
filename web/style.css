@@ -1,0 +1,35 @@
+h1 {
+    font: cursive;
+    color: white
+}
+body {
+    text-align: center;
+    background: black;
+    background-image: url("C:\Users\samue\Documents\NetBeansProjects\Controle de gastos\Imagens\julius-1.jpg")
+}  
+.btn {
+    border: none;
+    background-color: white;
+    color: black;
+    border-style: outset;
+    background: #B9DFFF;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow:none;
+    margin-top: 5px 
+}
+.btn:hover {
+    background: #016ABC;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow:none;
+}
+p, form, table, label {
+    color: white;
+    cor: white;
+    margin-top: 15px 
+}
